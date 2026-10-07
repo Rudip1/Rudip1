@@ -7,6 +7,7 @@ implementation, with learned components where a model alone is not enough. My ba
 engineering through mobile robotics and perception to control of industrial and parallel robots.
 
 [![Email](https://img.shields.io/badge/pravin.oli.08%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:pravin.oli.08@gmail.com)
+[![Email](https://img.shields.io/badge/olipravin18%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:olipravin18@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pravin--oli-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pravin-oli)
 
 ### Current work
