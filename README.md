@@ -42,9 +42,9 @@ notebooks) on motion planning, state estimation, manipulator control, computer v
 
 - Context-Adaptive Multi-Critic Controller using Deep Learning-Based Cost Weighting in Autonomous Navigation. MSc thesis, 2026. [PDF](https://github.com/Rudip1/CA-MCW/blob/main/thesis/pravin_elteikthesis_en.pdf)
 - Path-Parameter ILC with a Learned Correction Layer for High-Accuracy Industrial Robots, 2026. [PDF](https://github.com/Rudip1/path-ilc/blob/main/technical_report/full_technical_report.pdf)
-- Kinematic Control of a Vehicle–Manipulator System Using Task-Priority Redundancy Resolution, 2025. [PDF](https://github.com/Rudip1/vehicle-manipulator-task-priority/blob/main/docs/Hands_On_Intervention_Report.pdf)
-- Pose-Based EKF SLAM Using ICP Laser Scan Matching, 2025. [PDF](https://github.com/Rudip1/pekf-slam-icp/blob/main/docs/Hands_on_Localization_Report.pdf)
-- Autonomous Exploration with a 2D LiDAR and Dubins-RRT* Planning, 2025. [PDF](https://github.com/Rudip1/lidar-exploration/blob/main/docs/planning_followup.pdf)
+- Kinematic Control of a Vehicle–Manipulator System Using Task-Priority Redundancy Resolution, 2025. [PDF](https://github.com/Rudip1/vehicle-manipulator-task-priority/blob/main/docs/vehicle_manipulator_task_priority_report.pdf)
+- Pose-Based EKF SLAM Using ICP Laser Scan Matching, 2025. [code](https://github.com/Rudip1/pekf-slam-icp)
+- Autonomous Exploration with a 2D LiDAR and Dubins-RRT* Planning, 2025. [code](https://github.com/Rudip1/lidar-exploration)
 
 ### Skills
 
